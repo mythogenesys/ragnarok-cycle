@@ -1,0 +1,22 @@
+# Core AI/ML
+torch
+numpy
+gymnasium[classic-control]
+
+# Minigrid for Architecture-Agnosticism Test
+minigrid
+
+# Data & Plotting
+pandas
+matplotlib
+seaborn
+
+# Analysis & Stats
+scipy
+scikit-learn
+ruptures 
+
+# Development & CI
+ruff
+pytest
+cython  # Good to keep this explicitly

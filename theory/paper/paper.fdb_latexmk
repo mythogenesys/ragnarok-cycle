@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1756528966.34662 "/Users/mohanarangandesigan/Developer/ragnarok-cycle/theory/paper/paper.tex" "paper.pdf" "paper" 1756528966.66672 0
+  "/Users/mohanarangandesigan/Developer/ragnarok-cycle/theory/paper/paper.tex" 1756528876.44169 79 65767079b3c08d7d48373ac968a0735f ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls" 1738182759 20144 63d8bacaf52e5abf4db3bc322373e1d4 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo" 1738182759 8448 5cf247d4bd0c7d5d711bbbdf111fae2e ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1716410060 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
+  "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1756528537 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
+  "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1756528452 3345739 379cb1fc99685eb54c2e1dea6b3d046e ""
+  "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
+  "paper.aux" 1756528966.63439 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "paper.tex" 1756528876.44169 79 65767079b3c08d7d48373ac968a0735f ""
+  (generated)
+  "paper.aux"
+  "paper.log"
+  "paper.pdf"
+  (rewritten before read)
